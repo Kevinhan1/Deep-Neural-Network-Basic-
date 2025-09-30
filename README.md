@@ -17,7 +17,7 @@ Dengan kombinasi ini, model menjadi lebih **stabil**, **akurat**, serta lebih ma
 
 ---
 
-## 🇺🇸 Project Description (English)
+## en Project Description (English)
 This project leverages the **Pima Indians Diabetes dataset** to build a predictive model for diabetes classification.  
 Compared to a basic neural network, several improvements were implemented:
 
