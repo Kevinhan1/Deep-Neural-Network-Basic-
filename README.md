@@ -13,8 +13,7 @@ Dalam pengembangan model, beberapa modifikasi telah dilakukan dibandingkan basel
 3. **Callback dengan Early Stopping**  
    - Proses training ditambahkan **EarlyStopping** untuk menghentikan pelatihan ketika akurasi/validasi tidak lagi meningkat, sehingga menghindari **overfitting** dan menghemat waktu.
 
-Dengan kombinasi ini, model menjadi lebih **stabil**, **akurat**, serta lebih mampu melakukan **generalization** pada data baru.
-
+Tapi hasilnya naik tapi tidak cukup signifikan hasil akurasi stuck di angka 72 hingga tertinggi di angka 75 
 ---
 
 ## en Project Description (English)
@@ -30,8 +29,7 @@ Compared to a basic neural network, several improvements were implemented:
 3. **Callback with Early Stopping**  
    - Training incorporates **EarlyStopping** to halt the process when validation accuracy stops improving, preventing **overfitting** and saving computation time.
 
-With these adjustments, the model achieves better **stability**, **accuracy**, and **generalization** to unseen data.
-
+"But the results improved, though not significantly. The accuracy got stuck at around 72 and at best reached 75."
 ---
 
 ## 🔧 Teknologi / Technologies
