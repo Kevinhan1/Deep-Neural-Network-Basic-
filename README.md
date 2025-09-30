@@ -45,4 +45,4 @@ With these adjustments, the model achieves better **stability**, **accuracy**, a
 ## 📊 Dataset
 - **Sumber**: [Pima Indians Diabetes Database](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)  
 - **Fitur**: 8 kolom medis (glucose, insulin, BMI, umur, dll.)  
-- **Target**: Kelas biner (1 = diabetes, 0 = tidak diabetes)
+
